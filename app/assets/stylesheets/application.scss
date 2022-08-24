@@ -109,6 +109,14 @@ form.button_to {
   color: rgba(0, 130, 29, 0.7);
 }
 
+#sold_out {
+  min-width: 110px;
+  padding-left: 1em;
+  padding-right: 1em;
+  background-color: red;
+  color: white;
+}
+
 .page-header {
   margin: 3em 0;
 }
