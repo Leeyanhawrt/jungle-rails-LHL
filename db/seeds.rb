@@ -217,7 +217,6 @@ cat3.products.create!({
   price: 79.99
 })
 
-
 puts "DONE!"
 
 
