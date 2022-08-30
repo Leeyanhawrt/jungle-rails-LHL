@@ -2,6 +2,11 @@
 
 A mini e-commerce application built with Rails 6.1 for purposes of teaching Rails by example.
 
+## Final Product
+
+![Homepage](https://github.com/Leeyanhawrt/jungle-rails-LHL/blob/master/images/Screen%20Shot%202022-08-30%20at%205.55.07%20PM.png?raw=true)
+![Product List](https://github.com/Leeyanhawrt/jungle-rails-LHL/blob/master/images/Screen%20Shot%202022-08-30%20at%205.55.18%20PM.png?raw=true)
+
 ## Setup
 
 1. Run `bundle install` to install dependencies
